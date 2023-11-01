@@ -2,7 +2,7 @@
 
 I'm a back developer with a passion for coding and problem-solving. Here are some of my key skills and experiences:
 
-- 💻 **Programming Languages**: Golang, Java, SQL
+- 💻 **Programming Languages**: Golang, Java
 - 🌐 **Web Development**: Experience with web development technologies and frameworks.
 - 📦 **Database Management**: Proficient in designing and managing relational databases.
 - 📚 **Learning**: Always eager to learn and explore new technologies and tools.
